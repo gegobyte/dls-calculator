@@ -1,0 +1,15 @@
+.bg-custom1 {
+    background: #544a7d;
+    background: -webkit-linear-gradient(to right, #ffd452, #544a7d);  
+    background: linear-gradient(to right, #ffd452, #544a7d);
+}
+
+/* .bg-custom2 {
+    background: #FF416C;
+    background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+    background: linear-gradient(to right, #FF4B2B, #FF416C);
+} */
+
+.navbar-brand {
+    color: #fff;
+}
